@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\bin\Debug\net6.0\PerguntasERespostas.exe
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\bin\Debug\net6.0\PerguntasERespostas.deps.json
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\bin\Debug\net6.0\PerguntasERespostas.runtimeconfig.json
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\bin\Debug\net6.0\PerguntasERespostas.dll
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\bin\Debug\net6.0\PerguntasERespostas.pdb
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.AssemblyInfo.cs
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.dll
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\refint\PerguntasERespostas.dll
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.pdb
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\PerguntasERespostas.genruntimeconfig.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\PerguntasERespostas\obj\Debug\net6.0\ref\PerguntasERespostas.dll
